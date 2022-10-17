@@ -8,12 +8,32 @@ title: "CV"
 
 The NCRR genetics group is consists of:
 
-Bjarni Jóhann Vilhjálmsson, group leader and professor\\
-Zhihong Zhu, Senior Researcher\\
-Florian Privé, Senior Researcher
-Anders Jespersen, Postdoc
-Emil Pedersen, PhD student
-Clara A., PhD student
-Jette Steinbach, Research assistant
-Menno Witteveen, Research assistant
-Ole Hansen, Research assistant
+Bjarni Jóhann Vilhjálmsson, group leader and professor  
+![alt text here](/picsandembeds/Bjarni-Jóhann-Vilhjálmsson-scaled.jpg)
+```{r}
+
+```
+
+Zhihong Zhu, Senior Researcher  
+
+
+Florian Privé, Senior Researcher  
+
+
+Anders Jespersen, Postdoc  
+
+
+Emil Pedersen, PhD student  
+
+
+Clara A., PhD student  
+
+
+Jette Steinbach, Research assistant  
+
+
+Menno Witteveen, Research assistant  
+
+
+Ole Hansen, Research assistant  
+
