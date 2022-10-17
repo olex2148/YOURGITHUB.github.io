@@ -4,6 +4,16 @@ title: "CV"
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
+## The NCRR Genetics group
 
-Say more about your CV here.
+The NCRR genetics group is consists of:
+
+Bjarni Jóhann Vilhjálmsson, group leader and professor
+Zhihong Zhu, Senior Researcher
+Florian Privé, Senior Researcher
+Anders Jespersen, Postdoc
+Emil Pedersen, PhD student
+Clara A., PhD student
+Jette Steinbach, Research assistant
+Menno Witteveen, Research assistant
+Ole Hansen, Research assistant
