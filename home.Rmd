@@ -4,6 +4,8 @@ title: "Welcome to the NCRR - Genetics group website"
 
 ![](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/grp.png)
 
+International group ... 
+
 ```{r, echo=F}
 library(leaflet)
 leaflet() %>%

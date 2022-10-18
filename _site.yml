@@ -13,9 +13,6 @@ navbar:
     - text: "Who are we?"
       icon: fa-group
       href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://olex2148.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
   - text: 'Contact us'
     icon: fa-envelope
