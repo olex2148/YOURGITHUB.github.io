@@ -7,6 +7,8 @@ title: "Welcome to the NCRR - Genetics group website"
 ```{r, echo=F}
 library(leaflet)
 leaflet() %>%
-  addTiles() %>%
-  addMarkers(lng=10.182672, lat=56.163962, popup="NCRR")
-``` 
+  addTiles() %>%  
+  addMarkers(lng=10.182672, lat=56.163962, popup="NCRR, central hub") %>%
+  addMarkers(lng=4.831376, lat=45.761270, popup="Florian Privé") %>%
+  addMarkers(lng=153.025869, lat=-27.470565, popup="Zhihong Zhu")
+```
