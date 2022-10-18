@@ -4,13 +4,15 @@ title: "The NCRR Genetics group"
 
 <!-- <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			 -->
 
-<!-- # The NCRR genetics group is consists of: -->
+# 
 
 
 
   
 
-![Bjarni Jóhann Vilhjálmsson, group leader and professor](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Bjarni-Jóhann-Vilhjálmsson-scaled.jpg){height=300, width=250}
+![<font size="3"> ***Group leader: Bjarni Jóhann Vilhjálmsson, professor*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Bjarni-Jóhann-Vilhjálmsson-scaled.jpg){height=300, width=250}  
+
+Bjarni Jóhann Vilhjálmsson is a statistical geneticist who is motivated to leverage large population-scale data to understand the interplay between genetic and environmental factors when determining the causes of disease. He leads a research group at Aarhus University that is focused on developing methods that integrate health registers and large genetic data to understand psychiatric disorders and other diseases. He is the author of LDpred1/2, one of the most cited methods and software for deriving Polygenic risk Scores.
 
 ```{r}
 
@@ -18,33 +20,49 @@ title: "The NCRR Genetics group"
 
   
 
-![Zhihong Zhu, Senior Researcher](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture4.jpg){height=300, width=170}
+![<font size="3"> ***Zhihong Zhu, Senior Researcher***</font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture4.jpg){height=300, width=170}  
+
+Background and areas of scientific interest here
 
   
 
-![Florian Privé, Senior Researcher](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture3.jpg){height=300, width=170}
+![<font size="3"> ***Florian Privé, Senior Researcher*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture3.jpg){height=300, width=170}  
+
+Background and areas of scientific interest here
 
   
 
-![Anders Jespersen, Postdoc](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture7.jpg){height=300, width=170}
+![<font size="3"> ***Anders Jespersen, Postdoc*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture7.jpg){height=300, width=170}  
+
+Background and areas of scientific interest here
 
   
 
-![Emil Pedersen, PhD student](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture1.jpg){height=300, width=170}
+![<font size="3"> ***Emil Pedersen, PhD student*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture1.jpg){height=300, width=170}  
+
+Background and areas of scientific interest here
 
  
 
-![Clara A., PhD student ](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture2.jpg){height=300, width=170}
+![<font size="3"> ***Clara A., PhD student*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture2.jpg){height=300, width=170}  
+
+Background and areas of scientific interest here
 
   
 
-![Jette Steinbach, Research assistant](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture6.png){height=300, width=170}
+![<font size="3"> ***Jette Steinbach, Research assistant*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture6.png){height=300, width=170}  
+
+Background and areas of scientific interest here
 
  
 
-![Menno Witteveen, Research assistant ](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture5.jpg){height=300, width=170}
+![<font size="3"> ***Menno Witteveen, Research assistant*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture5.jpg){height=300, width=170}  
+
+Background and areas of scientific interest here
 
   
 
-![Ole Hansen, Research assistant](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture8.png){height=300, width=170}
+![<font size="3"> ***Ole Hansen, Research assistant*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture8.png){height=300, width=170}  
+
+Background and areas of scientific interest here
 
