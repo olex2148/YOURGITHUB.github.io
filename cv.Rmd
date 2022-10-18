@@ -1,39 +1,50 @@
 ---
-title: "CV"
+title: "The NCRR Genetics group"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<!-- <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			 -->
 
-## The NCRR Genetics group
+# The NCRR genetics group is consists of:
 
-The NCRR genetics group is consists of:
 
-Bjarni Jóhann Vilhjálmsson, group leader and professor  
-![alt text here](/picsandembeds/Bjarni-Jóhann-Vilhjálmsson-scaled.jpg)
+
+  
+
+![Bjarni Jóhann Vilhjálmsson, group leader and professor](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Bjarni-Jóhann-Vilhjálmsson-scaled.jpg){height=300, width=250}
+
 ```{r}
 
 ```
 
-Zhihong Zhu, Senior Researcher  
+  
 
+![Zhihong Zhu, Senior Researcher](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture4.jpg){height=300, width=170}
 
-Florian Privé, Senior Researcher  
+  
 
+![Florian Privé, Senior Researcher](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture3.jpg){height=300, width=170}
 
-Anders Jespersen, Postdoc  
+  
 
+![Anders Jespersen, Postdoc](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture7.jpg){height=300, width=170}
 
-Emil Pedersen, PhD student  
+  
 
+![Emil Pedersen, PhD student](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture1.jpg){height=300, width=170}
 
-Clara A., PhD student  
+ 
 
+![Clara A., PhD student ](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture2.jpg){height=300, width=170}
 
-Jette Steinbach, Research assistant  
+  
 
+![Jette Steinbach, Research assistant](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture6.png){height=300, width=170}
 
-Menno Witteveen, Research assistant  
+ 
 
+![Menno Witteveen, Research assistant ](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture5.jpg){height=300, width=170}
 
-Ole Hansen, Research assistant  
+  
+
+![Ole Hansen, Research assistant](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture8.png){height=300, width=170}
 

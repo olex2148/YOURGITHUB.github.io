@@ -1,17 +1,17 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "NCRR-Genetics"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "NCRR-Genetics"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
     - text: "About"
-      icon: fa-user 
+      icon: fa-user
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
+    - text: "Who are we?"
+      icon: fa-group
       href: cv.html
     - text: "Blog"
       icon: fa-rss
