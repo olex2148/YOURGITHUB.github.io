@@ -5,14 +5,15 @@ title: "Welcome to the NCRR - Genetics group website"
 ![](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/grp.png)
 
 International group ... 
+
 Group focus ...
 
 
 ```{r, echo=F}
 library(leaflet)
 leaflet() %>%
-  addTiles() %>%  
-  addMarkers(lng=10.182672, lat=56.163962, popup="NCRR, central hub") %>%
-  addMarkers(lng=4.831376, lat=45.761270, popup="Florian Privé") %>%
-  addMarkers(lng=153.025869, lat=-27.470565, popup="Zhihong Zhu")
+  addTiles() %>%  setView(10.182672, 56.163962, 7) %>% 
+  addMarkers(lng=10.182672, lat=56.163962, popup="NCRR, central hub")
+  # addMarkers(lng=4.831376, lat=45.761270, popup="Florian Privé") %>%
+  # addMarkers(lng=153.025869, lat=-27.470565, popup="Zhihong Zhu")
 ```
