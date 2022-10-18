@@ -44,7 +44,7 @@ Background and areas of scientific interest here
 
  
 
-![<font size="3"> ***Clara A., PhD student*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture2.jpg){height=300, width=170}  
+![<font size="3"> ***Clara Albiñana, PhD student*** </font>](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/Picture2.jpg){height=300, width=170}  
 
 Background and areas of scientific interest here
 

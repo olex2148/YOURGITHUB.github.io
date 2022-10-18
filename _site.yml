@@ -17,12 +17,31 @@ navbar:
       icon: fa-rss
       href: https://olex2148.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact us"
-      icon: fa-envelope-o
+  - text: 'Contact us'
+    icon: fa-envelope
+    menu:
+    - text: Bjarni Vilhjálmsson
       href: mailto:bjv@au.dk                    # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/NCRR-Genetics       # CHANGE HERE 
+    - text: Zhihong Zhu
+      href: mailto:z.zhu.ncrr@au.dk                    # CHANGE HERE 
+    - text: Florian Privé
+      href: mailto:fp.ncrr@au.dk                    # CHANGE HERE 
+    - text: Anders Jespersen
+      href: mailto:aj@econ.au.dk                   # CHANGE HERE 
+    - text: Emil Pedersen
+      href: mailto:emp.ncrr@au.dk                    # CHANGE HERE 
+    - text: Clara Albiñana
+      href: mailto:clara.ncrr@au.dk                    # CHANGE HERE 
+    - text: Jette Steinbach
+      href: mailto:jst.ncrr@au.dk                    # CHANGE HERE 
+    - text: Menno Witteveen
+      href: mailto:mjw@ncrr.au.dk                    # CHANGE HERE 
+    - text: Ole Hansen
+      href: mailto:osh.ncrr@au.dk                    # CHANGE HERE 
+    
+  - text: "GitHub"
+    icon: fa-github
+    href: https://github.com/NCRR-Genetics       # CHANGE HERE 
 output:
   html_document:
     theme: cerulean
