@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome to the NCRR - Genetics group website"
 ---
 
-You're up and running!
+![](C:/Users/au576454/Documents/YOURGITHUB.github.io\picsandembeds/grp.png)
