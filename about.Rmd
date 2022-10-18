@@ -1,9 +1,26 @@
 ---
-title: "About me"
+title: "Our Research"
 ---
 
-## Header
+# List of recent Publications
 
-Say more about you here.
+Recent publications will be listed here:
 
-This is a test to see what happens when I commit and push alterations :)
+Inferring disease architecture and predictive ability with LDpred2-auto:  
+https://doi.org/10.1101/2022.10.10.511629
+
+
+Publicly Available Privacy-preserving Benchmarks for Polygenic Prediction:  
+https://doi.org/10.1101/2022.10.10.510645
+
+
+Identifying and correcting for misspecifications in GWAS summary statistics and polygenic scores:  
+https://doi.org/10.1016/j.xhgg.2022.100136
+
+
+Accounting for age of onset and family history improves power in genome-wide association studies:  
+https://doi.org/10.1016/j.ajhg.2022.01.009
+
+
+Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosocial Factors in ADHD: A Nationwide Study:  
+https://doi.org/10.1176/appi.ajp.21111105

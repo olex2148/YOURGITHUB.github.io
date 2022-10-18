@@ -7,23 +7,23 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user
+    - text: "Research & Publications"
+      icon: fa-file-text
       href: about.html
     - text: "Who are we?"
       icon: fa-group
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://olex2148.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
+    - text: "Contact us"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:bjv@au.dk                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/NCRR-Genetics       # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean
     highlight: textmate

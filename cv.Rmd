@@ -4,7 +4,7 @@ title: "The NCRR Genetics group"
 
 <!-- <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			 -->
 
-# The NCRR genetics group is consists of:
+<!-- # The NCRR genetics group is consists of: -->
 
 
 
