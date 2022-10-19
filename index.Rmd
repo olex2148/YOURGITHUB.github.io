@@ -6,8 +6,11 @@ title: "Welcome to the NCRR - Genetics group website"
 
 International group ... 
 
-Group focus ...
+Group focus ...  
+
 [Read more about the group](who.html)
+
+[Read publications from the group](publications.html)
 
 ```{r, echo=F}
 library(leaflet)
