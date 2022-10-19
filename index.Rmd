@@ -8,7 +8,7 @@ International group ...
 
 Group focus ...  
 
-[Read more about the group](who.html)
+[Read more about the group](who.html)  
 
 [Read publications from the group](publications.html)
 
