@@ -7,7 +7,7 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Research & Publications"
+    - text: "Publications"
       icon: fa-file-text
       href: about.html
     - text: "Who are we?"
@@ -15,7 +15,10 @@ navbar:
       href: cv.html
     - text: "Events"
       icon: fa-university
-      href: events.html 
+      href: events.html
+    - text: "Wiki"
+      icon: fa-info
+      href: wiki.html
   right:
   - text: 'Contact us'
     icon: fa-envelope

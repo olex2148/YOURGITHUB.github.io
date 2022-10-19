@@ -1,0 +1,24 @@
+---
+title: "Wiki"
+---
+
+Here you can find some general advice on topics we've often worked with.
+
+
+**Working with summary statistics**
+..
+
+**GWAS**
+..
+
+**PCA**
+..
+
+**PRS**
+..
+
+**Correlation analysis**
+..
+
+**Mendelian Randomisation**
+..
