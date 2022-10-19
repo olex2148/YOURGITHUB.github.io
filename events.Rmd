@@ -1,4 +1,4 @@
 ---
-title: "Welcome to the NCRR - Genetics group website"
+title: ""
 ---
 

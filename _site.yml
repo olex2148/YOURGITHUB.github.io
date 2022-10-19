@@ -9,10 +9,10 @@ navbar:
       href: index.html
     - text: "Publications"
       icon: fa-file-text
-      href: about.html
+      href: publications.html
     - text: "Who are we?"
       icon: fa-group
-      href: cv.html
+      href: who.html
     - text: "Events"
       icon: fa-university
       href: events.html
@@ -41,11 +41,10 @@ navbar:
       href: mailto:mjw@ncrr.au.dk                    # CHANGE HERE 
     - text: Ole Hansen
       href: mailto:osh.ncrr@au.dk                    # CHANGE HERE 
-    
   - text: "GitHub"
     icon: fa-github
     href: https://github.com/NCRR-Genetics       # CHANGE HERE 
 output:
   html_document:
-    theme: cerulean
+    theme: darkly
     highlight: textmate
