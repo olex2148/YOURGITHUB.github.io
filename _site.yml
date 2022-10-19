@@ -1,7 +1,7 @@
 name: "NCRR-Genetics"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "NCRR-Genetics"                             # CHANGE HERE 
+  title: "NCRR-Genetics"                             # CHANGE HERE
   type: inverse
   left:
     - text: "Home"
