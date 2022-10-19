@@ -6,7 +6,7 @@ title: "Our Research"
 
 Recent publications will be listed here:
 
-##2022
+## 2022
 
 Inferring disease architecture and predictive ability with LDpred2-auto:  
 https://doi.org/10.1101/2022.10.10.511629
@@ -28,4 +28,4 @@ Interplay of ADHD Polygenic Liability With Birth-Related, Somatic, and Psychosoc
 https://doi.org/10.1176/appi.ajp.21111105
 
 
-##2021
+## 2021
